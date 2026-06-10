@@ -1,5 +1,5 @@
 # 19AI304-Fundamentals-of-C-Programming-2025-Odd-M5
-# IAPR-5- Module 5 - FoC
+# IAPR-5- Module 5 - Foc
 ## 9. Implementation of recursion.
 ## 10. Implementation of programs using pointer arithmetic.
 # Ex.No:21
